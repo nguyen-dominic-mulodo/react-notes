@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, {           Component } from 'react'
 import { API, graphqlOperation } from 'aws-amplify'
 import { withAuthenticator } from 'aws-amplify-react'
 import { css } from 'glamor'
